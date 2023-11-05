@@ -1,3 +1,3 @@
 <div align=center>
-    <img src="../../../static/lessons/QuickSort/img/task.png" height="600"/>
+    <img src="../../../static/lessons/SortsQuickMergeRadix/QuickSort/img/task.png" height="600"/>
 </div>
