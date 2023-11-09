@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e342c90b-6d8d-4d3f-aa94-cae77baed81f" name="Changes" comment="" />
+    <list default="true" id="e342c90b-6d8d-4d3f-aa94-cae77baed81f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/SortsQuickMergeRadix/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/WarmUpTraining/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/WarmUpTraining/homework/A/NotMinimumSegment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/WarmUpTraining/homework/A/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/WarmUpTraining/homework/B/AddTwoFractions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/WarmUpTraining/homework/B/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/WarmUpTraining/homework/C/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/WarmUpTraining/homework/C/TravelingAroundMoscow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/YandexAlgorithmTraining4.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/YandexAlgorithmTraining4.0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortsQuickMergeRadix/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/HashesStrings /README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortsQuickMergeRadix/homework/A/Partition.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/SortsQuickMergeRadix/homework/A/Partition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortsQuickMergeRadix/homework/A/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/SortsQuickMergeRadix/homework/A/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortsQuickMergeRadix/homework/B/QuickSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/SortsQuickMergeRadix/homework/B/QuickSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortsQuickMergeRadix/homework/B/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/SortsQuickMergeRadix/homework/B/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortsQuickMergeRadix/homework/B/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/SortsQuickMergeRadix/homework/B/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortsQuickMergeRadix/homework/C/Merger.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/SortsQuickMergeRadix/homework/C/Merger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortsQuickMergeRadix/homework/C/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/SortsQuickMergeRadix/homework/C/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortsQuickMergeRadix/homework/D/MergeSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/SortsQuickMergeRadix/homework/D/MergeSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortsQuickMergeRadix/homework/D/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/SortsQuickMergeRadix/homework/D/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortsQuickMergeRadix/homework/E/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/SortsQuickMergeRadix/homework/E/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortsQuickMergeRadix/homework/E/RadiusSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/SortsQuickMergeRadix/homework/E/RadiusSort.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,9 +50,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2XkDUmoVfqvcutPqrcBQCJ70s2H" />
   <component name="ProjectViewState">
     <option name="compactDirectories" value="true" />
@@ -38,21 +65,46 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/alset/PycharmProjects/YandexAlgorithmTraining4.0/SortsQuickMergeRadix/homework/E"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/alset/PycharmProjects/YandexAlgorithmTraining4.0/lessons/HashesStrings "
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lessons/HashesStrings " />
+      <recent name="$PROJECT_DIR$/lessons/WarmUpTraining/homework/C" />
       <recent name="$PROJECT_DIR$/SortsQuickMergeRadix/homework/E" />
       <recent name="$PROJECT_DIR$/SortsQuickMergeRadix/homework/D" />
       <recent name="$PROJECT_DIR$/SortsQuickMergeRadix/homework/C" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lessons" />
       <recent name="$PROJECT_DIR$/static/lessons/SortsQuickMergeRadix/Partition" />
       <recent name="$PROJECT_DIR$/static/lessons/SortsQuickMergeRadix" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.RadiusSort">
+  <component name="RunManager" selected="Python.TravelingAroundMoscow">
+    <configuration name="AddTwoFractions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YandexAlgorithmTraining4.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons/WarmUpTraining/homework/B" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/WarmUpTraining/homework/B/AddTwoFractions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="MergeSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YandexAlgorithmTraining4.0" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="QuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="NotMinimumSegment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YandexAlgorithmTraining4.0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SortsQuickMergeRadix/homework/B" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons/WarmUpTraining/homework/A" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortsQuickMergeRadix/homework/B/QuickSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/WarmUpTraining/homework/A/NotMinimumSegment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,11 +168,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="TravelingAroundMoscow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YandexAlgorithmTraining4.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons/WarmUpTraining/homework/C" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/WarmUpTraining/homework/C/TravelingAroundMoscow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TravelingAroundMoscow" />
+        <item itemvalue="Python.AddTwoFractions" />
+        <item itemvalue="Python.NotMinimumSegment" />
         <item itemvalue="Python.RadiusSort" />
         <item itemvalue="Python.MergeSort" />
-        <item itemvalue="Python.QuickSort" />
       </list>
     </recent_temporary>
   </component>
